@@ -24,7 +24,7 @@
     "glob": "^8.0.1",
     "jquery": "^3.6.3",
     "jstz": "^2.1.1",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.31",
     "postcss-css-variables": "^0.18.0",
     "postcss-extend-rule": "^4.0.0",
     "postcss-import": "^15.1.0",
